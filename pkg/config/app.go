@@ -371,6 +371,8 @@ func initData() {
 		{ID: 271, Name: "Udenu", StateID: 14},
 		{ID: 272, Name: "Udi", StateID: 14},
 		{ID: 273, Name: "Uzo Uwani", StateID: 14},
+
+		//Gombe
 		{ID: 274, Name: "Akko", StateID: 15},
 		{ID: 275, Name: "Balanga", StateID: 15},
 		{ID: 276, Name: "Billiri", StateID: 15},
@@ -382,6 +384,8 @@ func initData() {
 		{ID: 282, Name: "Nafada", StateID: 15},
 		{ID: 283, Name: "Shongom", StateID: 15},
 		{ID: 284, Name: "Yamaltu/Deba", StateID: 15},
+
+		//Imo
 		{ID: 285, Name: "Aboh Mbaise", StateID: 16},
 		{ID: 286, Name: "Ahiazu Mbaise", StateID: 16},
 		{ID: 287, Name: "Ehime Mbano", StateID: 16},
@@ -409,6 +413,8 @@ func initData() {
 		{ID: 309, Name: "Owerri Municipal", StateID: 16},
 		{ID: 310, Name: "Owerri North", StateID: 16},
 		{ID: 311, Name: "Owerri West", StateID: 16},
+
+		//Jigawa
 		{ID: 312, Name: "Auyo", StateID: 17},
 		{ID: 313, Name: "Babura", StateID: 17},
 		{ID: 314, Name: "Biriniwa", StateID: 17},
@@ -436,6 +442,8 @@ func initData() {
 		{ID: 336, Name: "Sule Tankarkar", StateID: 17},
 		{ID: 337, Name: "Taura", StateID: 17},
 		{ID: 338, Name: "Yankwashi", StateID: 17},
+
+		//Kaduna
 		{ID: 339, Name: "Birnin Gwari", StateID: 18},
 		{ID: 340, Name: "Chikun", StateID: 18},
 		{ID: 341, Name: "Giwa", StateID: 18},
@@ -459,6 +467,8 @@ func initData() {
 		{ID: 359, Name: "Soba", StateID: 18},
 		{ID: 360, Name: "Zangon Kataf", StateID: 18},
 		{ID: 361, Name: "Zaria", StateID: 18},
+
+		//Kano
 		{ID: 362, Name: "Ajingi", StateID: 19},
 		{ID: 363, Name: "Albasu", StateID: 19},
 		{ID: 364, Name: "Bagwai", StateID: 19},
@@ -503,6 +513,9 @@ func initData() {
 		{ID: 403, Name: "Ungogo", StateID: 19},
 		{ID: 404, Name: "Warawa", StateID: 19},
 		{ID: 405, Name: "Wudil", StateID: 19},
+		
+		
+		//Katsina
 		{ID: 406, Name: "Bakori", StateID: 20},
 		{ID: 407, Name: "Batagarawa", StateID: 20},
 		{ID: 408, Name: "Batsari", StateID: 20},
@@ -537,6 +550,8 @@ func initData() {
 		{ID: 437, Name: "Safana", StateID: 20},
 		{ID: 438, Name: "Sandamu", StateID: 20},
 		{ID: 439, Name: "Zango", StateID: 20},
+
+		//Kebbi
 		{ID: 440, Name: "Aleiro", StateID: 21},
 		{ID: 441, Name: "Arewa Dandi", StateID: 21},
 		{ID: 442, Name: "Argungu", StateID: 21},
@@ -557,6 +572,8 @@ func initData() {
 		{ID: 457, Name: "Suru", StateID: 21},
 		{ID: 458, Name: "Yauri", StateID: 21},
 		{ID: 459, Name: "Zuru", StateID: 21},
+
+		//Kogi
 		{ID: 460, Name: "Adavi", StateID: 22},
 		{ID: 461, Name: "Ajaokuta", StateID: 22},
 		{ID: 462, Name: "Ankpa", StateID: 22},
@@ -575,6 +592,8 @@ func initData() {
 		{ID: 475, Name: "Omala", StateID: 22},
 		{ID: 476, Name: "Yagba East", StateID: 22},
 		{ID: 477, Name: "Yagba West", StateID: 22},
+
+		//Kwara
 		{ID: 478, Name: "Asa", StateID: 23},
 		{ID: 479, Name: "Baruten", StateID: 23},
 		{ID: 480, Name: "Ekiti", StateID: 23},
@@ -588,6 +607,8 @@ func initData() {
 		{ID: 488, Name: "Oke Ero", StateID: 23},
 		{ID: 489, Name: "Oyun", StateID: 23},
 		{ID: 490, Name: "Pategi", StateID: 23},
+		
+		//Lagos
 		{ID: 491, Name: "Ajeromi-Ifelodun", StateID: 24},
 		{ID: 492, Name: "Alimosho", StateID: 24},
 		{ID: 493, Name: "Apapa", StateID: 24},
@@ -2554,6 +2575,570 @@ func initData() {
 		{ID: 1192, Name: "Owan East", LGID: 240},
 		{ID: 1193, Name: "Owan West", LGID: 240},
 
+		// Ado Ekiti (LGID: 241)
+		{ID: 1194, Name: "Ado Ekiti", LGID: 241},
+		{ID: 1195, Name: "Ado Town", LGID: 241},
+		{ID: 1196, Name: "Ado Central", LGID: 241},
+		{ID: 1197, Name: "Ado West", LGID: 241},
+		{ID: 1198, Name: "Ado North", LGID: 241},
+
+		// Efon (LGID: 242)
+		{ID: 1199, Name: "Efon", LGID: 242},
+		{ID: 1200, Name: "Efon Town", LGID: 242},
+		{ID: 1201, Name: "Efon South", LGID: 242},
+		{ID: 1202, Name: "Efon Central", LGID: 242},
+		{ID: 1203, Name: "Efon West", LGID: 242},
+
+		// Ekiti East (LGID: 243)
+		{ID: 1204, Name: "Ekiti East", LGID: 243},
+		{ID: 1205, Name: "Ekiti East Town", LGID: 243},
+		{ID: 1206, Name: "Ekiti East North", LGID: 243},
+		{ID: 1207, Name: "Ekiti East Central", LGID: 243},
+		{ID: 1208, Name: "Ekiti East West", LGID: 243},
+
+		// Ekiti South-West (LGID: 244)
+		{ID: 1209, Name: "Ekiti South-West", LGID: 244},
+		{ID: 1210, Name: "Ekiti South-West Town", LGID: 244},
+		{ID: 1211, Name: "Ekiti South-West East", LGID: 244},
+		{ID: 1212, Name: "Ekiti South-West Central", LGID: 244},
+		{ID: 1213, Name: "Ekiti South-West West", LGID: 244},
+
+		// Ekiti West (LGID: 245)
+		{ID: 1214, Name: "Ekiti West", LGID: 245},
+		{ID: 1215, Name: "Ekiti West Town", LGID: 245},
+		{ID: 1216, Name: "Ekiti West North", LGID: 245},
+		{ID: 1217, Name: "Ekiti West Central", LGID: 245},
+		{ID: 1218, Name: "Ekiti West South", LGID: 245},
+
+		// Emure (LGID: 246)
+		{ID: 1219, Name: "Emure", LGID: 246},
+		{ID: 1220, Name: "Emure Town", LGID: 246},
+		{ID: 1221, Name: "Emure North", LGID: 246},
+		{ID: 1222, Name: "Emure Central", LGID: 246},
+		{ID: 1223, Name: "Emure South", LGID: 246},
+
+		// Gbonyin (LGID: 247)
+		{ID: 1224, Name: "Gbonyin", LGID: 247},
+		{ID: 1225, Name: "Gbonyin Town", LGID: 247},
+		{ID: 1226, Name: "Gbonyin North", LGID: 247},
+		{ID: 1227, Name: "Gbonyin Central", LGID: 247},
+		{ID: 1228, Name: "Gbonyin South", LGID: 247},
+
+		// Ido Osi (LGID: 248)
+		{ID: 1229, Name: "Ido Osi", LGID: 248},
+		{ID: 1230, Name: "Ido Osi Town", LGID: 248},
+		{ID: 1231, Name: "Ido Osi North", LGID: 248},
+		{ID: 1232, Name: "Ido Osi Central", LGID: 248},
+		{ID: 1233, Name: "Ido Osi South", LGID: 248},
+
+		// Ijero (LGID: 249)
+		{ID: 1234, Name: "Ijero", LGID: 249},
+		{ID: 1235, Name: "Ijero Town", LGID: 249},
+		{ID: 1236, Name: "Ijero North", LGID: 249},
+		{ID: 1237, Name: "Ijero Central", LGID: 249},
+		{ID: 1238, Name: "Ijero South", LGID: 249},
+
+		// Ikere (LGID: 250)
+		{ID: 1239, Name: "Ikere", LGID: 250},
+		{ID: 1240, Name: "Ikere Town", LGID: 250},
+		{ID: 1241, Name: "Ikere North", LGID: 250},
+		{ID: 1242, Name: "Ikere Central", LGID: 250},
+		{ID: 1243, Name: "Ikere South", LGID: 250},
+
+		// Ikole (LGID: 251)
+		{ID: 1244, Name: "Ikole", LGID: 251},
+		{ID: 1245, Name: "Ikole Town", LGID: 251},
+		{ID: 1246, Name: "Ikole North", LGID: 251},
+		{ID: 1247, Name: "Ikole Central", LGID: 251},
+		{ID: 1248, Name: "Ikole South", LGID: 251},
+
+		// Ilejemeje (LGID: 252)
+		{ID: 1249, Name: "Ilejemeje", LGID: 252},
+		{ID: 1250, Name: "Ilejemeje Town", LGID: 252},
+		{ID: 1251, Name: "Ilejemeje North", LGID: 252},
+		{ID: 1252, Name: "Ilejemeje Central", LGID: 252},
+		{ID: 1253, Name: "Ilejemeje South", LGID: 252},
+
+		// Irepodun/Ifelodun (LGID: 253)
+		{ID: 1254, Name: "Irepodun/Ifelodun", LGID: 253},
+		{ID: 1255, Name: "Irepodun/Ifelodun Town", LGID: 253},
+		{ID: 1256, Name: "Irepodun/Ifelodun North", LGID: 253},
+		{ID: 1257, Name: "Irepodun/Ifelodun Central", LGID: 253},
+		{ID: 1258, Name: "Irepodun/Ifelodun South", LGID: 253},
+
+		// Ise/Orun (LGID: 254)
+		{ID: 1259, Name: "Ise/Orun", LGID: 254},
+		{ID: 1260, Name: "Ise/Orun Town", LGID: 254},
+		{ID: 1261, Name: "Ise/Orun North", LGID: 254},
+		{ID: 1262, Name: "Ise/Orun Central", LGID: 254},
+		{ID: 1263, Name: "Ise/Orun South", LGID: 254},
+
+		// Moba (LGID: 255)
+		{ID: 1264, Name: "Moba", LGID: 255},
+		{ID: 1265, Name: "Moba Town", LGID: 255},
+		{ID: 1266, Name: "Moba North", LGID: 255},
+		{ID: 1267, Name: "Moba Central", LGID: 255},
+		{ID: 1268, Name: "Moba South", LGID: 255},
+
+		// Oye (LGID: 256)
+		{ID: 1269, Name: "Oye", LGID: 256},
+		{ID: 1270, Name: "Oye Town", LGID: 256},
+		{ID: 1271, Name: "Oye North", LGID: 256},
+		{ID: 1272, Name: "Oye Central", LGID: 256},
+		{ID: 1273, Name: "Oye South", LGID: 256},
+
+		// Aninri
+		{ID: 1274, Name: "Ndeaboh", LGID: 257},
+		{ID: 1275, Name: "Oha Nkanu", LGID: 257},
+		{ID: 1276, Name: "Mpu", LGID: 257},
+		{ID: 1277, Name: "Oduma", LGID: 257},
+		{ID: 1278, Name: "Nenwe", LGID: 257},
+
+		// Awgu
+		{ID: 1279, Name: "Agbogugu", LGID: 258},
+		{ID: 1280, Name: "Agbudu", LGID: 258},
+		{ID: 1281, Name: "Awgu", LGID: 258},
+		{ID: 1282, Name: "Ihe", LGID: 258},
+		{ID: 1283, Name: "Mgbidi", LGID: 258},
+		{ID: 1284, Name: "Mgbowo", LGID: 258},
+		{ID: 1285, Name: "Nkwe", LGID: 258},
+		{ID: 1286, Name: "Owelli", LGID: 258},
+		{ID: 1287, Name: "Oji", LGID: 258},
+		{ID: 1288, Name: "Ugbo", LGID: 258},
+
+		// Enugu East
+		{ID: 1289, Name: "Nkwo Nike", LGID: 259},
+		{ID: 1290, Name: "Abakpa Nike", LGID: 259},
+		{ID: 1291, Name: "Emene", LGID: 259},
+		{ID: 1292, Name: "Trans-Ekulu", LGID: 259},
+		{ID: 1293, Name: "GRA", LGID: 259},
+
+		// Enugu North
+		{ID: 1294, Name: "Asata", LGID: 260},
+		{ID: 1295, Name: "Ogui", LGID: 260},
+		{ID: 1296, Name: "GRA", LGID: 260},
+		{ID: 1297, Name: "New Haven", LGID: 260},
+		{ID: 1298, Name: "Independence Layout", LGID: 260},
+
+		// Enugu South
+		{ID: 1299, Name: "Achara Layout", LGID: 261},
+		{ID: 1300, Name: "Amechi", LGID: 261},
+		{ID: 1301, Name: "Ugwuaji", LGID: 261},
+
+		// Ezeagu
+		{ID: 1302, Name: "Aguobu-Owa", LGID: 262},
+		{ID: 1303, Name: "Ihuokpara", LGID: 262},
+		{ID: 1304, Name: "Ihuoha", LGID: 262},
+		{ID: 1305, Name: "Olo", LGID: 262},
+		{ID: 1306, Name: "Obinofia", LGID: 262},
+		{ID: 1307, Name: "Umana Ndiagu", LGID: 262},
+		{ID: 1308, Name: "Udi", LGID: 262},
+
+		// Igbo Etiti
+		{ID: 1309, Name: "Ogbede", LGID: 263},
+		{ID: 1310, Name: "Diogbe", LGID: 263},
+		{ID: 1311, Name: "Ikolo", LGID: 263},
+		{ID: 1312, Name: "Ukehe", LGID: 263},
+		{ID: 1313, Name: "Ikem", LGID: 263},
+
+		// Igbo Eze North
+		{ID: 1314, Name: "Enugu-Ezike", LGID: 264},
+		{ID: 1315, Name: "Ibagwa", LGID: 264},
+		{ID: 1316, Name: "Umuitodo", LGID: 264},
+		{ID: 1317, Name: "Ogurugu", LGID: 264},
+		{ID: 1318, Name: "Aji", LGID: 264},
+
+		// Igbo Eze South
+		{ID: 1319, Name: "Ibagwa-Aka", LGID: 265},
+		{ID: 1320, Name: "Ovoko", LGID: 265},
+		{ID: 1321, Name: "Uhunowerre", LGID: 265},
+		{ID: 1322, Name: "Iheaka", LGID: 265},
+		{ID: 1323, Name: "Nkalagu-Obukpa", LGID: 265},
+
+		// Isi Uzo
+		{ID: 1324, Name: "Ikem", LGID: 266},
+		{ID: 1325, Name: "Neke", LGID: 266},
+		{ID: 1326, Name: "Umualor", LGID: 266},
+		{ID: 1327, Name: "Eha-Amufu", LGID: 266},
+		{ID: 1328, Name: "Mbu", LGID: 266},
+
+		// Nkanu East
+		{ID: 1329, Name: "Amankanu", LGID: 267},
+		{ID: 1330, Name: "Akpugo", LGID: 267},
+		{ID: 1331, Name: "Akpawfu", LGID: 267},
+		{ID: 1332, Name: "Ugbawka", LGID: 267},
+		{ID: 1333, Name: "Mburubu", LGID: 267},
+
+		// Nkanu West
+		{ID: 1334, Name: "Akegbe Ugwu", LGID: 268},
+		{ID: 1335, Name: "Obe", LGID: 268},
+		{ID: 1336, Name: "Ozalla", LGID: 268},
+		{ID: 1337, Name: "Amurri", LGID: 268},
+		{ID: 1338, Name: "Amaechi", LGID: 268},
+
+		// Nsukka
+		{ID: 1339, Name: "Nsukka", LGID: 269},
+		{ID: 1340, Name: "Opi", LGID: 269},
+		{ID: 1341, Name: "Ede-Oballa", LGID: 269},
+		{ID: 1342, Name: "Ibagwa-Ani", LGID: 269},
+		{ID: 1343, Name: "Nru", LGID: 269},
+
+		// Oji River
+		{ID: 1344, Name: "Achi", LGID: 270},
+		{ID: 1345, Name: "Inyi", LGID: 270},
+		{ID: 1346, Name: "Akpugoeze", LGID: 270},
+		{ID: 1347, Name: "Oji River", LGID: 270},
+		{ID: 1348, Name: "Umuneke", LGID: 270},
+
+		// Udenu
+		{ID: 1349, Name: "Obollo-Afor", LGID: 271},
+		{ID: 1350, Name: "Orba", LGID: 271},
+		{ID: 1351, Name: "Imilike", LGID: 271},
+		{ID: 1352, Name: "Ezimo", LGID: 271},
+		{ID: 1353, Name: "Ukehe", LGID: 271},
+
+		// Udi
+		{ID: 1354, Name: "Amokwe", LGID: 272},
+		{ID: 1355, Name: "Udi", LGID: 272},
+		{ID: 1356, Name: "Nachi", LGID: 272},
+		{ID: 1357, Name: "Ebe", LGID: 272},
+		{ID: 1358, Name: "Abia", LGID: 272},
+
+		// Uzo Uwani
+		{ID: 1359, Name: "Adani", LGID: 273},
+		{ID: 1360, Name: "Umulokpa", LGID: 273},
+		{ID: 1361, Name: "Ukpata", LGID: 273},
+		{ID: 1362, Name: "Igga", LGID: 273},
+		{ID: 1363, Name: "Nkpologwu", LGID: 273},
+		{ID: 1364, Name: "Nimbo", LGID: 273},
+
+		// Gombe
+		{ID: 1365, Name: "Garko", LGID: 274},
+		{ID: 1366, Name: "Kumo", LGID: 274},
+		{ID: 1367, Name: "Pindiga", LGID: 274},
+		{ID: 1368, Name: "Tumu", LGID: 274},
+
+		{ID: 1369, Name: "Balanga", LGID: 275},
+		{ID: 1370, Name: "Gelengu", LGID: 275},
+		{ID: 1371, Name: "Bambam", LGID: 275},
+		{ID: 1372, Name: "Tula", LGID: 275},
+
+		{ID: 1373, Name: "Billiri", LGID: 276},
+		{ID: 1374, Name: "Tal", LGID: 276},
+		{ID: 1375, Name: "Kwalamba", LGID: 276},
+		{ID: 1376, Name: "Todi", LGID: 276},
+
+		{ID: 1377, Name: "Dukku", LGID: 277},
+		{ID: 1378, Name: "Hashidu", LGID: 277},
+		{ID: 1379, Name: "Jamal Gombe", LGID: 277},
+		{ID: 1380, Name: "Wuro Tale", LGID: 277},
+
+		{ID: 1381, Name: "Bajoga", LGID: 278},
+		{ID: 1382, Name: "Ashaka", LGID: 278},
+		{ID: 1383, Name: "Filiya", LGID: 278},
+		{ID: 1384, Name: "Gundale", LGID: 278},
+
+		{ID: 1385, Name: "Gombe", LGID: 279},
+		{ID: 1386, Name: "Kwadon", LGID: 279},
+		{ID: 1387, Name: "Tumfure", LGID: 279},
+		{ID: 1388, Name: "Pantami", LGID: 279},
+
+		{ID: 1389, Name: "Kaltungo", LGID: 280},
+		{ID: 1390, Name: "Awak", LGID: 280},
+		{ID: 1391, Name: "Ture", LGID: 280},
+		{ID: 1392, Name: "Kamo", LGID: 280},
+
+		{ID: 1393, Name: "Kwami", LGID: 281},
+		{ID: 1394, Name: "Mallam Sidi", LGID: 281},
+		{ID: 1395, Name: "Jauro Tukur", LGID: 281},
+		{ID: 1396, Name: "Bojuwa", LGID: 281},
+
+		{ID: 1397, Name: "Nafada", LGID: 282},
+		{ID: 1398, Name: "Langa", LGID: 282},
+		{ID: 1399, Name: "Zambuk", LGID: 282},
+		{ID: 1400, Name: "Difa", LGID: 282},
+
+		{ID: 1401, Name: "Shongom", LGID: 283},
+		{ID: 1402, Name: "Bangoba", LGID: 283},
+		{ID: 1403, Name: "Lapan", LGID: 283},
+		{ID: 1404, Name: "Gungura", LGID: 283},
+
+		{ID: 1405, Name: "Deba", LGID: 284},
+		{ID: 1406, Name: "Yamaltu", LGID: 284},
+		{ID: 1407, Name: "Hinna", LGID: 284},
+		{ID: 1408, Name: "Kuri", LGID: 284},
+
+		// Imo
+		{ID: 1409, Name: "Ahiara", LGID: 285},
+		{ID: 1410, Name: "Nguru", LGID: 285},
+		{ID: 1411, Name: "Enyiogugu", LGID: 285},
+		{ID: 1412, Name: "Ekwereazu", LGID: 285},
+
+		{ID: 1413, Name: "Amuzi", LGID: 286},
+		{ID: 1414, Name: "Umuhu", LGID: 286},
+		{ID: 1415, Name: "Afor Oru", LGID: 286},
+		{ID: 1416, Name: "Ibeku", LGID: 286},
+
+		{ID: 1417, Name: "Umualumaku", LGID: 287},
+		{ID: 1418, Name: "Umuezeala", LGID: 287},
+		{ID: 1419, Name: "Agbaja", LGID: 287},
+		{ID: 1420, Name: "Ihite", LGID: 287},
+
+		{ID: 1421, Name: "Atta", LGID: 288},
+		{ID: 1422, Name: "Itu", LGID: 288},
+		{ID: 1423, Name: "Obizi", LGID: 288},
+		{ID: 1424, Name: "Okpofe", LGID: 288},
+
+		{ID: 1425, Name: "Arondizuogu", LGID: 289},
+		{ID: 1426, Name: "Osina", LGID: 289},
+		{ID: 1427, Name: "Akokwa", LGID: 289},
+		{ID: 1428, Name: "Urualla", LGID: 289},
+
+		{ID: 1429, Name: "Isiekenesi", LGID: 290},
+		{ID: 1430, Name: "Ntueke", LGID: 290},
+		{ID: 1431, Name: "Obodo Ukwu", LGID: 290},
+		{ID: 1432, Name: "Umuma", LGID: 290},
+
+		{ID: 1433, Name: "Amainyi", LGID: 291},
+		{ID: 1434, Name: "Amaimo", LGID: 291},
+		{ID: 1435, Name: "Umuezegwu", LGID: 291},
+		{ID: 1436, Name: "Ihitte", LGID: 291},
+
+		{ID: 1437, Name: "Amatta", LGID: 292},
+		{ID: 1438, Name: "Iho", LGID: 292},
+		{ID: 1439, Name: "Amaimo", LGID: 292},
+		{ID: 1440, Name: "Avuvu", LGID: 292},
+
+		{ID: 1441, Name: "Obolo", LGID: 293},
+		{ID: 1442, Name: "Anara", LGID: 293},
+		{ID: 1443, Name: "Umuduru", LGID: 293},
+		{ID: 1444, Name: "Ibeme", LGID: 293},
+
+		{ID: 1445, Name: "Umuoma", LGID: 294},
+		{ID: 1446, Name: "Amaimo", LGID: 294},
+		{ID: 1447, Name: "Umundugba", LGID: 294},
+		{ID: 1448, Name: "Ekwe", LGID: 294},
+
+		{ID: 1449, Name: "Ogwa", LGID: 295},
+		{ID: 1450, Name: "Ubomiri", LGID: 295},
+		{ID: 1451, Name: "Ifakala", LGID: 295},
+		{ID: 1452, Name: "Orodo", LGID: 295},
+
+		{ID: 1453, Name: "Ntu", LGID: 296},
+		{ID: 1454, Name: "Umuneke", LGID: 296},
+		{ID: 1455, Name: "Obiangwu", LGID: 296},
+		{ID: 1456, Name: "Alulu", LGID: 296},
+
+		{ID: 1457, Name: "Okwudor", LGID: 297},
+		{ID: 1458, Name: "Nkume", LGID: 297},
+		{ID: 1459, Name: "Atta", LGID: 297},
+		{ID: 1460, Name: "Umuelemai", LGID: 297},
+
+		{ID: 1461, Name: "Umudioka", LGID: 298},
+		{ID: 1462, Name: "Eziama", LGID: 298},
+		{ID: 1463, Name: "Umuezeala", LGID: 298},
+		{ID: 1464, Name: "Umuozu", LGID: 298},
+
+		{ID: 1465, Name: "Umueze", LGID: 299},
+		{ID: 1466, Name: "Amaigbo", LGID: 299},
+		{ID: 1467, Name: "Dimneze", LGID: 299},
+		{ID: 1468, Name: "Eziama", LGID: 299},
+
+		{ID: 1469, Name: "Obowo", LGID: 300},
+		{ID: 1470, Name: "Umulogho", LGID: 300},
+		{ID: 1471, Name: "Avutu", LGID: 300},
+		{ID: 1472, Name: "Achara", LGID: 300},
+
+		{ID: 1473, Name: "Oguta", LGID: 301},
+		{ID: 1474, Name: "Awa", LGID: 301},
+		{ID: 1475, Name: "Orsu Obodo", LGID: 301},
+		{ID: 1476, Name: "Ejemekwuru", LGID: 301},
+
+		{ID: 1477, Name: "Egbema", LGID: 302},
+		{ID: 1478, Name: "Ohaji", LGID: 302},
+		{ID: 1479, Name: "Assa", LGID: 302},
+		{ID: 1480, Name: "Obitti", LGID: 302},
+
+		{ID: 1481, Name: "Okigwe", LGID: 303},
+		{ID: 1482, Name: "Amuro", LGID: 303},
+		{ID: 1483, Name: "Ihube", LGID: 303},
+		{ID: 1484, Name: "Ubahu", LGID: 303},
+
+		{ID: 1485, Name: "Onuimo", LGID: 304},
+		{ID: 1486, Name: "Okwe", LGID: 304},
+		{ID: 1487, Name: "Owerre Nkworji", LGID: 304},
+		{ID: 1488, Name: "Umunna", LGID: 304},
+
+		{ID: 1489, Name: "Orlu", LGID: 305},
+		{ID: 1490, Name: "Amakohia", LGID: 305},
+		{ID: 1491, Name: "Eziachi", LGID: 305},
+		{ID: 1492, Name: "Obibi", LGID: 305},
+
+		{ID: 1493, Name: "Orsu", LGID: 306},
+		{ID: 1494, Name: "Awo Idemili", LGID: 306},
+		{ID: 1495, Name: "Ebenator", LGID: 306},
+		{ID: 1496, Name: "Eziawa", LGID: 306},
+
+		{ID: 1497, Name: "Omumma", LGID: 307},
+		{ID: 1498, Name: "Amiri", LGID: 307},
+		{ID: 1499, Name: "Ihite", LGID: 307},
+		{ID: 1500, Name: "Iragbiji", LGID: 307},
+
+		{ID: 1501, Name: "Mgbidi", LGID: 308},
+		{ID: 1502, Name: "Ozara", LGID: 308},
+		{ID: 1503, Name: "Amaokpara", LGID: 308},
+		{ID: 1504, Name: "Nnempi", LGID: 308},
+
+		{ID: 1505, Name: "Owerri", LGID: 309},
+		{ID: 1506, Name: "New Owerri", LGID: 309},
+		{ID: 1507, Name: "Owerri Municipal", LGID: 309},
+		{ID: 1508, Name: "Egbu", LGID: 309},
+
+		{ID: 1509, Name: "Naze", LGID: 310},
+		{ID: 1510, Name: "Emekuku", LGID: 310},
+		{ID: 1511, Name: "Emii", LGID: 310},
+		{ID: 1512, Name: "Agbala", LGID: 310},
+
+		{ID: 1513, Name: "Owerri West", LGID: 311},
+		{ID: 1514, Name: "Irete", LGID: 311},
+		{ID: 1515, Name: "Okuku", LGID: 311},
+		{ID: 1516, Name: "Nekede", LGID: 311},
+
+		// Jigawa
+		// Auyo
+		{ID: 1505, Name: "Auyo Town", LGID: 312},
+		{ID: 1506, Name: "Auyo Village", LGID: 312},
+		{ID: 1507, Name: "Auyo Suburb", LGID: 312},
+
+		// Babura
+		{ID: 1508, Name: "Babura Town", LGID: 313},
+		{ID: 1509, Name: "Babura Village", LGID: 313},
+		{ID: 1510, Name: "Babura Suburb", LGID: 313},
+
+		// Biriniwa
+		{ID: 1511, Name: "Biriniwa Town", LGID: 314},
+		{ID: 1512, Name: "Biriniwa Village", LGID: 314},
+		{ID: 1513, Name: "Biriniwa Suburb", LGID: 314},
+
+		// Birnin Kudu
+		{ID: 1514, Name: "Birnin Kudu Town", LGID: 315},
+		{ID: 1515, Name: "Birnin Kudu Village", LGID: 315},
+		{ID: 1516, Name: "Birnin Kudu Suburb", LGID: 315},
+
+		// Buji
+		{ID: 1517, Name: "Buji Town", LGID: 316},
+		{ID: 1518, Name: "Buji Village", LGID: 316},
+		{ID: 1519, Name: "Buji Suburb", LGID: 316},
+
+		// Dutse
+		{ID: 1520, Name: "Dutse Town", LGID: 317},
+		{ID: 1521, Name: "Dutse Village", LGID: 317},
+		{ID: 1522, Name: "Dutse Suburb", LGID: 317},
+
+		// Gagarawa
+		{ID: 1523, Name: "Gagarawa Town", LGID: 318},
+		{ID: 1524, Name: "Gagarawa Village", LGID: 318},
+		{ID: 1525, Name: "Gagarawa Suburb", LGID: 318},
+
+		// Garki
+		{ID: 1526, Name: "Garki Town", LGID: 319},
+		{ID: 1527, Name: "Garki Village", LGID: 319},
+		{ID: 1528, Name: "Garki Suburb", LGID: 319},
+
+		// Gumel
+		{ID: 1529, Name: "Gumel Town", LGID: 320},
+		{ID: 1530, Name: "Gumel Village", LGID: 320},
+		{ID: 1531, Name: "Gumel Suburb", LGID: 320},
+
+		// Guri
+		{ID: 1532, Name: "Guri Town", LGID: 321},
+		{ID: 1533, Name: "Guri Village", LGID: 321},
+		{ID: 1534, Name: "Guri Suburb", LGID: 321},
+
+		// Gwaram
+		{ID: 1535, Name: "Gwaram Town", LGID: 322},
+		{ID: 1536, Name: "Gwaram Village", LGID: 322},
+		{ID: 1537, Name: "Gwaram Suburb", LGID: 322},
+
+		// Gwiwa
+		{ID: 1538, Name: "Gwiwa Town", LGID: 323},
+		{ID: 1539, Name: "Gwiwa Village", LGID: 323},
+		{ID: 1540, Name: "Gwiwa Suburb", LGID: 323},
+
+		// Hadejia
+		{ID: 1541, Name: "Hadejia Town", LGID: 324},
+		{ID: 1542, Name: "Hadejia Village", LGID: 324},
+		{ID: 1543, Name: "Hadejia Suburb", LGID: 324},
+
+		// Jahun
+		{ID: 1544, Name: "Jahun Town", LGID: 325},
+		{ID: 1545, Name: "Jahun Village", LGID: 325},
+		{ID: 1546, Name: "Jahun Suburb", LGID: 325},
+
+		// Kafin Hausa
+		{ID: 1547, Name: "Kafin Hausa Town", LGID: 326},
+		{ID: 1548, Name: "Kafin Hausa Village", LGID: 326},
+		{ID: 1549, Name: "Kafin Hausa Suburb", LGID: 326},
+
+		// Kaugama
+		{ID: 1550, Name: "Kaugama Town", LGID: 327},
+		{ID: 1551, Name: "Kaugama Village", LGID: 327},
+		{ID: 1552, Name: "Kaugama Suburb", LGID: 327},
+
+		// Kazaure
+		{ID: 1553, Name: "Kazaure Town", LGID: 328},
+		{ID: 1554, Name: "Kazaure Village", LGID: 328},
+		{ID: 1555, Name: "Kazaure Suburb", LGID: 328},
+
+		// Kiri Kasama
+		{ID: 1556, Name: "Kiri Kasama Town", LGID: 329},
+		{ID: 1557, Name: "Kiri Kasama Village", LGID: 329},
+		{ID: 1558, Name: "Kiri Kasama Suburb", LGID: 329},
+
+		// Kiyawa
+		{ID: 1559, Name: "Kiyawa Town", LGID: 330},
+		{ID: 1560, Name: "Kiyawa Village", LGID: 330},
+		{ID: 1561, Name: "Kiyawa Suburb", LGID: 330},
+
+		// Maigatari
+		{ID: 1562, Name: "Maigatari Town", LGID: 331},
+		{ID: 1563, Name: "Maigatari Village", LGID: 331},
+		{ID: 1564, Name: "Maigatari Suburb", LGID: 331},
+
+		// Malam Madori
+		{ID: 1565, Name: "Malam Madori Town", LGID: 332},
+		{ID: 1566, Name: "Malam Madori Village", LGID: 332},
+		{ID: 1567, Name: "Malam Madori Suburb", LGID: 332},
+
+		// Miga
+		{ID: 1568, Name: "Miga Town", LGID: 333},
+		{ID: 1569, Name: "Miga Village", LGID: 333},
+		{ID: 1570, Name: "Miga Suburb", LGID: 333},
+
+		// Ringim
+		{ID: 1571, Name: "Ringim Town", LGID: 334},
+		{ID: 1572, Name: "Ringim Village", LGID: 334},
+		{ID: 1573, Name: "Ringim Suburb", LGID: 334},
+
+		// Roni
+		{ID: 1574, Name: "Roni Town", LGID: 335},
+		{ID: 1575, Name: "Roni Village", LGID: 335},
+		{ID: 1576, Name: "Roni Suburb", LGID: 335},
+
+		// Sule Tankarkar
+		{ID: 1577, Name: "Sule Tankarkar Town", LGID: 336},
+		{ID: 1578, Name: "Sule Tankarkar Village", LGID: 336},
+		{ID: 1579, Name: "Sule Tankarkar Suburb", LGID: 336},
+
+		// Taura
+		{ID: 1580, Name: "Taura Town", LGID: 337},
+		{ID: 1581, Name: "Taura Village", LGID: 337},
+		{ID: 1582, Name: "Taura Suburb", LGID: 337},
+
+		// Yankwashi
+		{ID: 1583, Name: "Yankwashi Town", LGID: 338},
+		{ID: 1584, Name: "Yankwashi Village", LGID: 338},
+		{ID: 1585, Name: "Yankwashi Suburb", LGID: 338},
 
 	}
 	
